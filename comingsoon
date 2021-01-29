@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<!-- With <3, by
+ _____     ______     __    __     __     ______    
+/\  __-.  /\  __ \   /\ "-./  \   /\ \   /\  ___\   
+\ \ \/\ \ \ \ \/\ \  \ \ \-./\ \  \ \ \  \ \___  \  
+ \ \____-  \ \_____\  \ \_\ \ \_\  \ \_\  \/\_____\ 
+  \/____/   \/_____/   \/_/  \/_/   \/_/   \/_____/ 
+Project made by . . . . . . . . . . . . . . @domi_s
+Check me on Fiverr! . https://www.fiverr.com/domi_s
+- -- --- ---- - Have a nice day! :) - ---- --- -- -
+-->
+	<head>
+		<!-- Meta data -->
+		<title>Het Turbospel</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=0">
+		<meta name="keywords" content="dit verkoop ik, ditverkoopik, iphone, iphone 11, iphone 12, ik verkoop telefoons, ik verkoop elektronica, het turbospel">
+		<meta property="og:title" content="Het Turbospel">
+		<meta property="og:site_name" content="Het Turbospel">
+		<meta property="og:type" content="website">
+		<!-- Style related -->
+		<link href="https://fonts.googleapis.com/css2?family=Kosugi+Maru:wght@400;700&display=swap" rel="stylesheet">
+		<style type="text/css">
+			* { font-family: 'Kosugi Maru', sans-serif; margin: 0; }
+			*::selection { background: #000B; color: white; }
+			body { background: black; color: white; }
+			div { width: 100vw; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center; font-size: 2em; padding: .5em; box-sizing: border-box; }
+			@media screen and (max-width: 550px) {
+				div { font-size: 1.5em; }
+			}
+		</style>
+	</head>
+	<body>
+		<div>
+			<h1>KOMT BINNENKORT</h1>
+		</div>
+	</body>
+</html>
